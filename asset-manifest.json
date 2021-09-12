@@ -1,0 +1,32 @@
+{
+  "files": {
+    "main.css": "/corito/static/css/main.4a9cf335.chunk.css",
+    "main.js": "/corito/static/js/main.0228aefc.chunk.js",
+    "main.js.map": "/corito/static/js/main.0228aefc.chunk.js.map",
+    "runtime-main.js": "/corito/static/js/runtime-main.1d7b7641.js",
+    "runtime-main.js.map": "/corito/static/js/runtime-main.1d7b7641.js.map",
+    "static/css/2.1e99d49a.chunk.css": "/corito/static/css/2.1e99d49a.chunk.css",
+    "static/js/2.2854242d.chunk.js": "/corito/static/js/2.2854242d.chunk.js",
+    "static/js/2.2854242d.chunk.js.map": "/corito/static/js/2.2854242d.chunk.js.map",
+    "index.html": "/corito/index.html",
+    "precache-manifest.c42f764d0023b7b656ee2b308ee78c29.js": "/corito/precache-manifest.c42f764d0023b7b656ee2b308ee78c29.js",
+    "service-worker.js": "/corito/service-worker.js",
+    "static/css/2.1e99d49a.chunk.css.map": "/corito/static/css/2.1e99d49a.chunk.css.map",
+    "static/css/main.4a9cf335.chunk.css.map": "/corito/static/css/main.4a9cf335.chunk.css.map",
+    "static/js/2.2854242d.chunk.js.LICENSE.txt": "/corito/static/js/2.2854242d.chunk.js.LICENSE.txt",
+    "static/media/12.svg": "/corito/static/media/12.296942da.svg",
+    "static/media/60.svg": "/corito/static/media/60.d235de22.svg",
+    "static/media/74.svg": "/corito/static/media/74.36f3011b.svg",
+    "static/media/font-awesome.min.css": "/corito/static/media/fontawesome-webfont.fee66e71.woff",
+    "static/media/hero2.svg": "/corito/static/media/hero2.17ad3201.svg",
+    "static/media/logo.svg": "/corito/static/media/logo.6b83fa91.svg",
+    "static/media/services.svg": "/corito/static/media/services.eb72033e.svg"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.1d7b7641.js",
+    "static/css/2.1e99d49a.chunk.css",
+    "static/js/2.2854242d.chunk.js",
+    "static/css/main.4a9cf335.chunk.css",
+    "static/js/main.0228aefc.chunk.js"
+  ]
+}
