@@ -1,27 +1,27 @@
 self.__precacheManifest = (self.__precacheManifest || []).concat([
   {
-    "revision": "9d178553dff40b8411314c73b874a64b",
+    "revision": "56a941883e1767cc18d4ac2d9b0ef028",
     "url": "/corito/index.html"
   },
   {
-    "revision": "8132ae54fb981f35de28",
+    "revision": "02518461a8ec8caae2bb",
     "url": "/corito/static/css/2.1e99d49a.chunk.css"
   },
   {
-    "revision": "cae9b3b8a58323dcfe28",
+    "revision": "86c09d3eec0b8a03ff93",
     "url": "/corito/static/css/main.4a9cf335.chunk.css"
   },
   {
-    "revision": "8132ae54fb981f35de28",
-    "url": "/corito/static/js/2.2854242d.chunk.js"
+    "revision": "02518461a8ec8caae2bb",
+    "url": "/corito/static/js/2.a3ba2ab1.chunk.js"
   },
   {
     "revision": "308d2d97fd519422d20953c3e51f94e3",
-    "url": "/corito/static/js/2.2854242d.chunk.js.LICENSE.txt"
+    "url": "/corito/static/js/2.a3ba2ab1.chunk.js.LICENSE.txt"
   },
   {
-    "revision": "cae9b3b8a58323dcfe28",
-    "url": "/corito/static/js/main.0228aefc.chunk.js"
+    "revision": "86c09d3eec0b8a03ff93",
+    "url": "/corito/static/js/main.71b434ce.chunk.js"
   },
   {
     "revision": "8196ce42c533d1aec5f7",
